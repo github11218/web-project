@@ -5,7 +5,7 @@ Sample Git Project
 
 ## Colleboration
 
-- In Git multiple devlopers can work and share together 
+- In Git multiple devlopers can work and share together.
 
 ```bash
 

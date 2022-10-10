@@ -17,3 +17,7 @@ It could be windows user or linux user.
 
 - First have pull the changes form the repo then have to edit and merge the code.
 - It's easy for devlopers to check and mitigate the merge`conflicts`.
+
+## Pull and Push Concepts
+
+For pull request `git pull origin main` and for push request `git push -u origin main`.

@@ -1,9 +1,6 @@
 # Git Project
-
 ~~~
-
 Sample Git Project
-
 ~~~
 
 ## Colleboration
@@ -12,7 +9,7 @@ Sample Git Project
 
 ```bash
 
-It could be windows dev or linux dev.
+It could be windows user or linux user.
 
 ```
 
